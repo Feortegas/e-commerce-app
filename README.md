@@ -1,6 +1,20 @@
 # e-commerce-app
 
 ## Description
+E-commerce backend, with the following functionalities:
+- Create Database
+- Seed Database with starter data
+- CRUD operations for all Tables (Category, Product, Tag)
+
+## Walkthrough Videos
+
+Watch both videos below for a full demo of the application.
+
+Video 1
+- https://watch.screencastify.com/v/lyHolestjN2v6OuWeJxf
+
+Video 2
+- https://watch.screencastify.com/v/QwsWTkERhaHwejdf9HeG
 
 ## User Story
 AS A manager at an internet retail company
