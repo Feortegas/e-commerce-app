@@ -12,9 +12,9 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
-    category_nane: {
+    category_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     }
   },
   {
